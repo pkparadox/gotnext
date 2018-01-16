@@ -64,6 +64,7 @@ class GameEntry extends Component {
             >Edit</Button>
 
             <Button
+              className="gradientme"
               style={{ width: "100px" }}
               type="button"
               bsStyle="danger"

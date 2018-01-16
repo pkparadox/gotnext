@@ -22,8 +22,12 @@
 }
 
 .creat, .game-entry, .btns {
-  background-color: orange !important;
+  background: linear-gradient(orange, yellow) !important;
   color: #3F250B !important;
+}
+
+.gradientme {
+  background: linear-gradient(red, pink) !important;
 }
 
 .creat-text, .game-inner {
