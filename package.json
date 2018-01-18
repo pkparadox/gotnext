@@ -4,7 +4,6 @@
   "description": "\"# App\"",
   "main": "webpack.config.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack -w & nodemon server",
     "start": "webpack -w & node server",
     "dev1": "webpack -w",
